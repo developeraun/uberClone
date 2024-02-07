@@ -46,4 +46,9 @@ header {
     margin-left: 25px;
 }
 
+.right {
+    flex-direction: column;
+    
+}
+
 
