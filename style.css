@@ -65,12 +65,14 @@ header {
     gap: 2rem;
 }
 
-.right1 button {
-    width: 20%;
-    background-color: black;
+
+
+.right1  {
+    position: relative;
+    float: right;
 }
 
-.right1 h2 {
-    justify-content:right;
-    align-items: right;
+.hero-section-2  button {
+    position: relative;
+    float: roght;
 }
